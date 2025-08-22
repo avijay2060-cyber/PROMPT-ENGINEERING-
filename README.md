@@ -6,7 +6,6 @@ This report provides an overview of Generative AI and Large Language Models (LLM
 ---
 
 ## What is Generative AI?
-![Generative AI](image)
 
 Generative AI refers to artificial intelligence systems capable of creating new content such as text, images, audio, and video.  
 These models are trained on vast datasets and learn to identify patterns, structures, and relationships within the data.  
@@ -21,7 +20,6 @@ Applications include:
 ---
 
 ## Foundational Concepts of Generative AI
-![Foundations](image)
 
 Generative AI is focused on creating new content by learning patterns from existing data.  
 
@@ -39,7 +37,6 @@ These techniques enable the creation of realistic and high-quality outputs.
 ---
 
 ## Generative AI Architectures (Transformers)
-![Transformers](image)
 
 One of the most impactful advancements in Generative AI is the Transformer architecture, introduced in the paper *“Attention is All You Need”*.  
 
@@ -56,7 +53,6 @@ Notable Transformer-based Models:
 ---
 
 ## Types of Generative AI Models
-![Models](image)
 
 1. Text Generation Models → GPT, BERT, T5  
 2. Image Generation Models → GANs, VAEs, DALL·E, Stable Diffusion  
@@ -67,7 +63,6 @@ Notable Transformer-based Models:
 ---
 
 ## Applications of Generative AI
-![Applications](image)
 
 Generative AI is applied across industries:
 
@@ -81,7 +76,6 @@ Generative AI is applied across industries:
 ---
 
 ## What are LLMs (Large Language Models)?
-![LLMs](image)
 
 LLMs are Generative AI models specialized in Natural Language Processing (NLP) tasks.  
 
@@ -101,7 +95,6 @@ Examples:
 ---
 
 ## Architecture of LLMs
-![Architecture](image)
 
 LLMs are primarily based on transformer architecture.
 
@@ -119,7 +112,6 @@ Variations:
 ---
 
 ## Impact of Scaling in LLMs
-![Scaling](image)
 
 Scaling LLMs leads to emergent behaviors such as:  
 - Few-shot and zero-shot learning  
@@ -138,7 +130,6 @@ Challenges:
 ---
 
 ## Evolution of Generative AI and LLMs
-![Evolution](image)
 
 1. Rule-based AI → Hand-coded rules  
 2. Statistical Models → Limited context  
